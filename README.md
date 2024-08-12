@@ -6,7 +6,7 @@ I am [Sameera Liyanage](https://sameeravx.github.io), a Senior Software Engineer
 
 ## Preview
 
-[![Surface Preview](./images/preview.png)](https://sameeravx.github.io)
+[![Surface Preview](./assets/images/preview.png)](https://sameeravx.github.io)
 
 **[View On Live](https://sameeravx.github.io)**
 Copyright 2024 - [Sameera Liyanage](https://sameeravx.github.io)
